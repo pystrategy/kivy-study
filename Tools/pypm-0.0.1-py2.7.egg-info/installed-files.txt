@@ -1,0 +1,10 @@
+../pypm/__init__.py
+../pypm/project_manager.py
+../pypm/__init__.pyc
+../pypm/project_manager.pyc
+./
+dependency_links.txt
+not-zip-safe
+PKG-INFO
+SOURCES.txt
+top_level.txt

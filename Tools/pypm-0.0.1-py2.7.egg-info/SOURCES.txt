@@ -1,0 +1,7 @@
+pypm/__init__.py
+pypm/project_manager.py
+pypm.egg-info/PKG-INFO
+pypm.egg-info/SOURCES.txt
+pypm.egg-info/dependency_links.txt
+pypm.egg-info/not-zip-safe
+pypm.egg-info/top_level.txt
