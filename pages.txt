@@ -1,0 +1,7 @@
+2. Events and Properties. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+    What Is an Event? 21 
+    Adding Logic to a Custom Widget 22 
+    Responding to Events 23 
+    Accessing Properties of KV Language Widgets 24 Populating the Search Result List 27 
+    File It All Away 32
+3. Manipulating Widgets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
